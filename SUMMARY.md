@@ -16,7 +16,7 @@
    * [Sensor Tag Design](chap3/des_b.md)
    * [Mobile Application Development](chap3/des_c.md)
 * [Project Details](chap4/details.md)
-* [Risk Analysis](chap4/detail_a.md)
+* [Risk Analysis](chap4/details_a.md)
 * [Safety Analysis](chap4/details_bmd)
 * Project Timeline
 * Bill of Materials
