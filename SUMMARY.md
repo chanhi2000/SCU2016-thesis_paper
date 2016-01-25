@@ -36,5 +36,5 @@
 * [Appendix A: Project Specificatoin](appendix/appendix_a.md)
 * [Appendix B: Arduino Code](appendix/appendix_b.md)
 * [Appendix C: Android Application Code](appendix/appendix_c.md)
-* Appendix D: Timeline
+* [Appendix D: Timeline](appendix/appendix_d.md)
 
