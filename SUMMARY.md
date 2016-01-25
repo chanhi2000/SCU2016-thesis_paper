@@ -22,4 +22,5 @@
 * [Bill of Materials](chap4/details_d.md)
 * [Testing and Results](chap5/test.md)
 * Expected Results
+* Test Rationale
 
