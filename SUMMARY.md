@@ -28,4 +28,5 @@
 * [Ethics Analysis](chap6/issues_a.md)
 * [Project Sustainability and Environmental Impact](chap6/issues_b.md)
 * [Manufacturability](chap6/issues_c.md)
+* Conclusion
 
