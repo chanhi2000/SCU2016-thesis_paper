@@ -27,4 +27,5 @@
 * [Professional Issues](chap6/issues.md)
 * Ethics Analysis
 * Project Sustainability and Environmental Impact
+* Manufacturability
 
