@@ -24,5 +24,5 @@
    * [Expected Results](chap5/test_a.md)
    * [Test Rationale](chap5/test_b.md)
    * [Measured Results](chap5/test_c.md)
-* Professional Issues
+* [Professional Issues](chap6/issues.md)
 
