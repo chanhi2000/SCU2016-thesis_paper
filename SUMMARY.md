@@ -33,4 +33,5 @@
 * [Future Goals](chap7/conc_b.md)
 * [Lesson Learned](chap7/conc_c.md)
 * [References](chap8/references.md)
+* Appendix
 
