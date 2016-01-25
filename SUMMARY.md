@@ -17,4 +17,5 @@
    * [Mobile Application Development](chap3/des_c.md)
 * Project Details
 * Risk Analysis
+* Safety Analysis
 
