@@ -19,4 +19,5 @@
 * Risk Analysis
 * Safety Analysis
 * Project Timeline
+* Bill of Materials
 
