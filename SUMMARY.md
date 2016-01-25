@@ -17,7 +17,7 @@
    * [Mobile Application Development](chap3/des_c.md)
 * [Project Details](chap4/details.md)
 * [Risk Analysis](chap4/details_a.md)
-* Safety Analysis
+* [Safety Analysis](chap4/details_bmd)
 * Project Timeline
 * Bill of Materials
 
