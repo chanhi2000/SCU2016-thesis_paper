@@ -9,5 +9,5 @@
 * [System Overview](chap2/sys.md)
 * [Block Diagram](chap2/sys_a.md)
 * [Project Requirements](chap2/sys_b.md)
-* Specification and Constraints
+* [Specification and Constraints](chap2/sys_c.md)
 
