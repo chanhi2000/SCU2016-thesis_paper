@@ -5,5 +5,5 @@
 * [Inspiration](chap1/intro_b.md)
 * [Applicable Work and Research](chap1/intro_c.md)
 * [Similar Products](chap1/intro_d.md)
-* Product Objectives
+* [Product Objectives](chap1/intro_e.md)
 
