@@ -1,2 +1,2 @@
-# Appendix B: Arduino Code
+## Appendix B: Arduino Code
 
