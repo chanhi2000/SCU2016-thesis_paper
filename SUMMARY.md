@@ -30,6 +30,6 @@
 * [Manufacturability](chap6/issues_c.md)
 * [Conclusion](chap7/conc.md)
 * [Summary](chap7/conc_a.md)
-* Future Goals
+* [Future Goals](chap7/conc_b.md)
 * Lesson Learned
 
