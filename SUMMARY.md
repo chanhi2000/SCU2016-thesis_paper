@@ -18,4 +18,5 @@
 * Project Details
 * Risk Analysis
 * Safety Analysis
+* Project Timeline
 
