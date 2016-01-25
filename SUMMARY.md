@@ -30,4 +30,5 @@
 * [Manufacturability](chap6/issues_c.md)
 * Conclusion
 * Summary
+* Future Goals
 
