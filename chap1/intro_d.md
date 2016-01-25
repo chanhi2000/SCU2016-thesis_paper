@@ -1,2 +1,2 @@
-# Similar Products
+## Similar Products
 
