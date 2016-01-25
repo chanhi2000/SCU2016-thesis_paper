@@ -26,6 +26,6 @@
    * [Measured Results](chap5/test_c.md)
 * [Professional Issues](chap6/issues.md)
 * [Ethics Analysis](chap6/issues_a.md)
-* Project Sustainability and Environmental Impact
+* [Project Sustainability and Environmental Impact](chap6/issues_b.md)
 * Manufacturability
 
