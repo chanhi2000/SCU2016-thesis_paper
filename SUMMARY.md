@@ -7,5 +7,5 @@
 * [Similar Products](chap1/intro_d.md)
 * [Product Objectives](chap1/intro_e.md)
 * [System Overview](chap2/sys.md)
-* Block Diagram
+* [Block Diagram](chap2/sys_a.md)
 
