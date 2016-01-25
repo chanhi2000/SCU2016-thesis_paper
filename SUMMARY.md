@@ -25,7 +25,7 @@
    * [Test Rationale](chap5/test_b.md)
    * [Measured Results](chap5/test_c.md)
 * [Professional Issues](chap6/issues.md)
-* Ethics Analysis
+* [Ethics Analysis](chap6/issues_a.md)
 * Project Sustainability and Environmental Impact
 * Manufacturability
 
