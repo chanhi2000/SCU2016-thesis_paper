@@ -1,2 +1,2 @@
-# Appendix C: Android Application Code
+## Appendix C: Android Application Code
 
