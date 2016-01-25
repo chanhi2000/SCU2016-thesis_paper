@@ -23,5 +23,5 @@
 * [Testing and Results](chap5/test.md)
 * [Expected Results](chap5/test_a.md)
 * [Test Rationale](chap5/test_b.md)
-* Measured Results
+* [Measured Results](chap5/test_c.md)
 
