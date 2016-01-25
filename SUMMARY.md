@@ -19,5 +19,5 @@
 * [Risk Analysis](chap4/details_a.md)
 * [Safety Analysis](chap4/details_b.md)
 * [Project Timeline](details_c.md)
-* [Bill of Materials](details_d.md)
+* [Bill of Materials](chap4/details_d.md)
 
