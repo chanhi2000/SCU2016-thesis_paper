@@ -15,7 +15,7 @@
    * [Proposed Implementation](chap3/des_a.md)
    * [Sensor Tag Design](chap3/des_b.md)
    * [Mobile Application Development](chap3/des_c.md)
-* [Project Details](details.md)
+* [Project Details](chap4/details.md)
 * Risk Analysis
 * Safety Analysis
 * Project Timeline
