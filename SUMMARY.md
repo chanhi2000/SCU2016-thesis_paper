@@ -29,7 +29,7 @@
 * [Project Sustainability and Environmental Impact](chap6/issues_b.md)
 * [Manufacturability](chap6/issues_c.md)
 * [Conclusion](chap7/conc.md)
-* Summary
+* [Summary](chap7/conc_a.md)
 * Future Goals
 * Lesson Learned
 
