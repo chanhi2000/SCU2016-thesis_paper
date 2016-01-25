@@ -34,4 +34,5 @@
    * [Lesson Learned](chap7/conc_c.md)
 * [References](chap8/references.md)
 * [Appendix A: Project Specificatoin](appendix/appendix_a.md)
+* Appendix B: Arduino Code
 
