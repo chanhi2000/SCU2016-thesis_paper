@@ -32,5 +32,5 @@
 * [Summary](chap7/conc_a.md)
 * [Future Goals](chap7/conc_b.md)
 * [Lesson Learned](chap7/conc_c.md)
-* References
+* [References](chap8/references.md)
 
