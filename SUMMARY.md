@@ -12,4 +12,5 @@
 * [Specification and Constraints](chap2/sys_c.md)
 * [Design Process](chap3/des.md)
 * [Proposed Implementation](chap3/des_a.md)
+* Sensor Tag Design
 
